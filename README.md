@@ -6,12 +6,13 @@ This project was created in order to accelerate the process of creating a profes
 
 ## Installation
 
-Simply clone or copy the repository into a local system, from there you can run the program and generate a professional README
+Simply clone or copy the repository into a local system, from there you can run the program and generate a professional README.
 
 ## Usage
 
 Open the console of your system or Git Bash, and navigate to the folder containing the program. Navigate into the "utils" folder and type "node index" into the command line. Follow the prompts, entering the information you would like to be added to your README file. A confirmation log will appear when the file has been successfully created. Your new README file can be found within the local copy of the repository titled "generatedREADME.md". Below is a link to a walkthrough of the workflow.
 
+[Walkthrough](https://drive.google.com/file/d/1g023XD3pKgJVWcpsU7Iwe4Odr-m9NcTb/view)
 
 ## License
 
